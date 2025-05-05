@@ -1,0 +1,6 @@
+psutil
+discord_webhook
+configparser
+customtkinter
+logging
+pillow
